@@ -1,0 +1,5 @@
+username: admin
+password: admin123
+
+Nama Database: laravel_ujikom
+Nama File Dump DataBase : DataBase.sql
