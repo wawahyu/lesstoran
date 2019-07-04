@@ -1,0 +1,2 @@
+# lesstoran
+Aplikasi restoran
